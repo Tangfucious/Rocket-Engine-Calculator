@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-//#include <Python.h>
 
 //#define Mt 1.0
 #define g 9.80665
